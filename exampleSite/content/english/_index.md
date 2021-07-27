@@ -25,8 +25,8 @@ about:
   winglady he knew to hype him up in stories, his sister Shelley and had plenty of time to be nervous leading up to the date. 
   There was only one more problem - Carmen thought Dave and Shelley were married because Shelley was wearing her wedding band.
   <br><br>Thankfully though, after a bit of explanation, the ruse worked. While Carmen is still annoyed that she 
-  was set up on a brunch she had scheduled herself, she and Dave live happily together in Berlin with their two pets, Luna and Mario"
-  image: "images/carmen_and_dave_pajamas.jpg"
+  was set up on a brunch she had scheduled herself, she and Dave live happily together in Berlin with their two pets, Luna and Mario."
+  image: "images/mario_luna.jpeg"
 
 
 ######################### Portfolio ###############################
