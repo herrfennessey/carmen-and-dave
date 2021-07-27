@@ -54,34 +54,33 @@ featured_service:
 ############################# Service ###############################
 service:
   enable : true
-  title : "Our Services"
-  description : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the
-          blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
+  title : "Quick Information"
+  description : "More information is available in the Travel Arrangements page of this site"
   service_item:
     # service item loop
-    - icon : ion-coffee #ionicon pack v2 : https://ionicons.com/v2/
-      name: Branding
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - icon : ion-android-plane #ionicon pack v2 : https://ionicons.com/v2/
+      name: Airport
+      content: "The nearest airport is Cluj-Napoca (CLJ)"
 
     # service item loop
-    - icon : ion-compass #ionicon pack v2 : https://ionicons.com/v2/
-      name: Web Design
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - icon : ion-ios-world-outline #ionicon pack v2 : https://ionicons.com/v2/
+      name: Location
+      content: "Conacul Secuiesc<br>Colțești, Romania"
 
     # service item loop
-    - icon : ion-image #ionicon pack v2 : https://ionicons.com/v2/
-      name: App Design
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - icon : ion-ios-calendar-outline #ionicon pack v2 : https://ionicons.com/v2/
+      name: Date
+      content: "July 2nd, 2022"
 
     # service item loop
-    - icon : ion-bug #ionicon pack v2 : https://ionicons.com/v2/
-      name: Start Up
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - icon : ion-heart #ionicon pack v2 : https://ionicons.com/v2/
+      name: Ceremony
+      content: "The wedding ceremony will begin at 12:30 PM"
 
     # service item loop
-    - icon : ion-headphone #ionicon pack v2 : https://ionicons.com/v2/
-      name: Logo Design
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - icon : ion-pizza #ionicon pack v2 : https://ionicons.com/v2/
+      name: Food & Drink
+      content: "Food and drinks will start at 2 PM. There will be a LOT of food, so pace yourself!"
 
     # service item loop
     - icon : ion-leaf #ionicon pack v2 : https://ionicons.com/v2/
@@ -89,14 +88,14 @@ service:
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
     # service item loop
-    - icon : ion-planet #ionicon pack v2 : https://ionicons.com/v2/
-      name: Brand Identity
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - icon : ion-android-people #ionicon pack v2 : https://ionicons.com/v2/
+      name: Kids
+      content: "There is a playground on the property, games & activities, and changing facilities in the mansion"
 
     # service item loop
-    - icon : ion-earth #ionicon pack v2 : https://ionicons.com/v2/
-      name: Brand Identity
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - icon : ion-bowtie #ionicon pack v2 : https://ionicons.com/v2/
+      name: Dress Code
+      content: "Semi-Formal, but shorts and open-toed shoes are fine. It will be held on a grassy field and it's going to be hot 30°C (86°F)"
 
 ############################# call to action #################################
 cta:
