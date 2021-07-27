@@ -83,9 +83,9 @@ service:
       content: "Food and drinks will start at 2 PM. There will be a LOT of food, so pace yourself!"
 
     # service item loop
-    - icon : ion-leaf #ionicon pack v2 : https://ionicons.com/v2/
-      name: Development
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - icon : ion-android-home #ionicon pack v2 : https://ionicons.com/v2/
+      name: Lodging
+      content: "We have reserved 27 rooms at the venue, however, there are hotels within 30-40 minutes by car"
 
     # service item loop
     - icon : ion-android-people #ionicon pack v2 : https://ionicons.com/v2/
@@ -95,7 +95,7 @@ service:
     # service item loop
     - icon : ion-bowtie #ionicon pack v2 : https://ionicons.com/v2/
       name: Dress Code
-      content: "Semi-Formal, but shorts and open-toed shoes are fine. It will be held on a grassy field and it's going to be hot 30°C (86°F)"
+      content: "Semi-Formal, but shorts and open-toed shoes are fine. It will be held outside on a grassy field and it's going to be hot 30°C (86°F)"
 
 ############################# call to action #################################
 cta:
