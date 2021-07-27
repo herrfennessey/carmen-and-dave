@@ -1,43 +1,41 @@
 ---
-title: "Frequently Asked Questions"
-description: "this is meta description"
-subtitle : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, repudiandae."
-lastmod: 2021-04-01T00:00:00
-bg_image: "images/feature-bg.jpg"
+title: "Traveling To Romania"
+description: ""
+subtitle : "And having a good time while you're there!"
+lastmod: 2021-07-27T00:00:00
+bg_image: "images/cluj_napoca.jpeg"
 layout: "faq"
 draft: false
 menu:
   main:
-    parent: "More"
-    name: "FAQ"
-    weight: 3
+    name: "Travel Tips"
+    weight: 2
   footer:
-    name: "FAQ"
-    weight: 5
+    name: "Travel Tips"
+    weight: 1
 ---
 
-### Welcome to Airspace!
+### Currency
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia ullam sint quas pariatur ipsam nemo
-repellendus suscipit quod accusantium numquam tempora assumenda sequi, velit voluptatem soluta voluptatibus
-nesciunt ducimus iure. Excepturi voluptatum ullam tenetur perspiciatis alias delectus beatae voluptatibus
-magni facere aspernatur, qui, quas nesciunt blanditiis assumenda a expedita accusantium quos consectetur neque
-nemo. Necessitatibus est quod quo deserunt, dicta aut voluptatem blanditiis, alias quos sed vel unde enim
-dolore aliquam quis reiciendis qui vitae reprehenderit. Similique nemo accusamus, vel possimus error cumque
-quas, tempora repellendus velit, unde cupiditate impedit deserunt fugit labore et nostrum sapiente est
-obcaecati maiores voluptates.
+Despite being the EU, Romania uses the Leu (Lei for plural). It is about 4 Leu to a US Dollar, and 5 Leu to a Euro.
+The ATM's in Romania typically charge quite a hefty fee in addition to whatever currency exchange fees are applied, so we 
+would recommend exchanging currency at money exchangers if you would like to have cash with you.<br><br>
+Nearly every store in Cluj Napoca, gas stations, and supermarkets accept credit card, even American ones, although we would
+recommend bringing a card with a chip on it. Everything at the venue is paid for, but if you plan on traveling afterwards, 
+especially to rural areas, cash could be useful.  
 
-#### 1.Overview
+### Tipping
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas iusto, alias, tempora fuga quam eveniet
-neque excepturi aliquid. Eligendi, mollitia.
+All of the venue staff will be fully paid and tipped, but if you would like, you can tip them in USD, EUR, or Lei. In 
+restaurants in Romania you typically tip 10% to the waitstaff for bills up to 100 Lei down to around 5% for more expensive bills. 
 
-#### 2. Data We Collect
+### Driving In Romania
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias, earum, quibusdam? Accusantium, eaque at
-quasi dicta quis consectetur. Temporibus, natus illo quasi, magni neque fugiat ducimus omnis, ab ullam
-reprehenderit obcaecati. Inventore ut nisi repellendus dolores odit. Ea molestias perspiciatis enim, tenetur
-impedit suscipit quidem optio asperiores quibusdam. Minus, vel.
+Driving in Romania can be a little chaotic, and is about on par with in Italy. Public transit such as trains and subways 
+are not well developed, and biking can be hazardous given how fast people drive. The only way to really get from city to city, 
+especially rural destinations is via car. 
+<br><br>
+In big cities, parking can be difficult, although spots are quite plentiful in the countryside.  
 
 #### 3. How We Use Data
 

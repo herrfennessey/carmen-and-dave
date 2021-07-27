@@ -38,10 +38,10 @@ portfolio:
   views onto rustic Romanian farmland, a lily pond, and the ruins of Trascău Fortress.
   <br><br>
   The venue, the food, and the accommodations will be traditionally Romanian. The wedding guest list, however, reflects 
-  our time living abroad, and the amazing people we met along the way. We cannot wait for you to bring your own language and traditions with you, and help
+  our time living abroad, and the amazing people we met along the way. We cannot wait for you all to join us, and help
   us celebrate our own multicultural union. 
   <br><br>
-  The ceremony will be conducted in both English and Romanian"
+  The ceremony and events will be conducted in both English and Romanian"
 
 
 ############################# Service ############################
