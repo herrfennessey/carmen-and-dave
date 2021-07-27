@@ -24,7 +24,7 @@ about:
   other hand, got plenty of warning, and was fully briefed on what Emma was planning on doing. He even invited the best 
   winglady he knew to hype him up in stories, his sister Shelley and had plenty of time to be nervous leading up to the date. 
   There was only one more problem - Carmen thought Dave and Shelley were married because Shelley was wearing her wedding band.
-  <br><br>Thankfully though, after a bit of explanation, the ruse worked, and while Carmen is still annoyed that she 
+  <br><br>Thankfully though, after a bit of explanation, the ruse worked. While Carmen is still annoyed that she 
   was set up on a brunch she had scheduled herself, she and Dave live happily together in Berlin with their two pets, Luna and Mario"
   image: "images/carmen_and_dave_pajamas.jpg"
 
