@@ -15,14 +15,8 @@ menu:
     weight: 1
 ---
 
-### Getting to and from the venue
+### Corona Information
 
-For people who are staying at the venue, or nearby, we do plan on shuttling people from the airport with more details to come.
-We also plan on shuttling people back to some major hotels after the event is concluded (so people can drink). 
-<br><br>
-For people who don't mind driving themselves, or want the flexibility, there are many rental car companies available 
-from the airport if you'd like to drive yourself to the venue. Booking in advance is always better, because there are a few 
-major festivals that happen in Cluj in the summer which might affect rental car availability. 
 
 ### Visas
 
@@ -31,6 +25,14 @@ travelers will not need a visa. You can check whether or not you need a visa by 
 ([http://evisa.mae.ro/](http://evisa.mae.ro/)) by clicking "Get Informed" on the top left. The type of visa 
 you'll be applying for is "Tourism (marked C/TU)"
 
+### Getting to and from the venue
+
+For people who are staying at the venue, or nearby, we do plan on shuttling people from the airport with more details to come.
+We also plan on shuttling people back to some major hotels after the event is concluded (so people can drink). 
+<br><br>
+For people who don't mind driving themselves, or want the flexibility, there are many rental car companies available 
+from the airport if you'd like to drive yourself to the venue. Booking in advance is always better, because there are a few 
+major festivals that happen in Cluj in the summer which might affect rental car availability. 
 
 ### Driving In Romania
 
@@ -46,7 +48,7 @@ In big cities, parking can be difficult, although spots are quite plentiful in t
 
 Romania is in the EU, so all EU based phone plans will have full service and data upon landing. If your phone plan doesn't allow 
 international travel, or it's prohibitively expensive, you can buy a prepaid SIM card at the Cluj Napoca Airport at the Relay
-store for about 6-10 euros. The Orange and Vodafone network hae the strongest coverage around Romania.
+store for about 6-10 euros if your phone is unlocked. The Orange and Vodafone network hae the strongest coverage around Romania.
 <br><br>
 All around Cluj, you should have full LTE, however the coverage is a little spotty at the venue (EDGE/3G), so if you're 
 using your phone for google maps, we would recommend downloading the maps offline.  

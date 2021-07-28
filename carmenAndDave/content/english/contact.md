@@ -6,9 +6,9 @@ layout: "contact"
 draft: false
 menu:
   main:
-    name: "Contact"
+    name: "RSVP"
     weight: 6
   footer:
-    name: "Contact"
+    name: "RSVP"
     weight: 6
 ---
