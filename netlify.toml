@@ -1,6 +1,6 @@
 [build]
   publish = "carmenAndDave/public"
-  command = "hugo --gc"
+  command = "cd carmenAndDave && hugo --gc"
 
 [build.environment]
   HUGO_VERSION = "0.83.1"
