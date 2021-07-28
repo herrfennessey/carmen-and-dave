@@ -90,12 +90,12 @@ service:
     # service item loop
     - icon : ion-android-people #ionicon pack v2 : https://ionicons.com/v2/
       name: Kids
-      content: "There is a playground on the property, games & activities, and changing facilities in the mansion"
+      content: "There is a playground on the property, games & activities, and changing facilities in the hotel"
 
     # service item loop
     - icon : ion-bowtie #ionicon pack v2 : https://ionicons.com/v2/
       name: Dress Code
-      content: "Semi-Formal, but shorts and open-toed shoes are fine. It will be held outside on a grassy field and it's going to be hot 30°C (86°F)"
+      content: "Semi-formal, but shorts and open-toed shoes are fine. It will be held outside on a grassy field and it's going to be hot 30°C (86°F)"
 
 ############################# call to action #################################
 cta:
