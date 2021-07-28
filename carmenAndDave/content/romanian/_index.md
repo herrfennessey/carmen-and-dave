@@ -10,22 +10,22 @@ banner:
   bg_image: "images/save_the_date_scaled.jpg"
   bg_overlay: true
   title: "Carmen & Dave"
-  content: "Conacul Secuiesc, Colțești, Romania <br> July 2, 2022"
+  content: "Conacul Secuiesc, Colțești, Romania <br>2 iulie 2022"
   
 ############################# About #################################
 about:
   enable: true
-  title: "Our Story"
-  description: "A Romanian and an American walk into a bar..."
-  content: "Carmen and Dave were actually set up on a blind date by a mutual friend, Emma, whom she knew from when she 
-  lived in Berlin. Carmen had invited Emma
-  to a weekend brunch to catch up, as it had been a while since they had seen each other. Emma had made the excuse 
-  that she had already made plans to hang out with Dave that day, and asked if he could he come as well.<br><br>Dave, on the 
-  other hand, got plenty of warning, and was fully briefed on what Emma was planning on doing. He even invited the best 
-  winglady he knew to hype him up in stories, his sister Shelley and had plenty of time to be nervous leading up to the date. 
-  There was only one more problem - Carmen thought Dave and Shelley were married because Shelley was wearing her wedding band.
-  <br><br>Thankfully though, after a bit of explanation, the ruse worked. While Carmen is still annoyed that she 
-  was set up on a brunch she had scheduled herself, she and Dave live happily together in Berlin with their two pets, Luna and Mario."
+  title: "Povestea noastră"
+  description: "Un român și un american intră într-un bar ..."
+  content: "Carmen și Dave au fost de fapt stabiliți la o întâlnire oarbă de o prietenă comună, Emma, ​​pe care o știa de când
+              a locuit la Berlin. Carmen o invitase pe Emma
+              la un brunch de weekend pentru a ajunge din urmă, pentru că trecuse ceva timp de când nu se mai văzuseră. Emma făcuse scuza
+              că ea își făcuse deja planuri de a sta cu Dave în acea zi și a întrebat dacă poate să vină și el. <br> <br> Dave, pe
+              pe de altă parte, a primit o mulțime de avertismente și a fost pe deplin informat despre ceea ce intenționa Emma să facă. El chiar i-a invitat pe cei mai buni
+              winglady, a știut să-l spună în povești, sora lui Shelley și a avut destul timp să fie nervos până la întâlnire.
+              Mai era o singură problemă - Carmen credea că Dave și Shelley erau căsătoriți pentru că Shelley purta trupa ei de nuntă.
+              <br> <br> Din fericire, însă, după câteva explicații, șmecheria a funcționat. În timp ce Carmen este încă supărată că ea
+              a fost pregătită pentru un brunch pe care și-l programase ea însăși, ea și Dave trăiesc fericiți împreună la Berlin cu cei doi animale de companie, Luna și Mario."
   image: "images/mario_luna.jpeg"
 
 
@@ -33,15 +33,15 @@ about:
 portfolio:
   enable: true
   bg_image: "images/conacul-secuiesc.jpg"
-  title: "THE WEDDING"
-  content: "The wedding will be held at Conacul Secuiesc located in rural Transylvania. The venue is in the shadow of the Piatra Secuiului with beautiful
-  views onto rustic Romanian farmland, a lily pond, and the ruins of Trascău Fortress.
-  <br><br>
-  The venue, the food, and the accommodations will be traditionally Romanian. The wedding guest list, however, reflects 
-  our time living abroad, and the amazing people we met along the way. We cannot wait for you all to join us, and help
-  us celebrate our own multicultural union. 
-  <br><br>
-  The ceremony and events will be conducted in both English and Romanian"
+  title: "NUNTA"
+  content: "Nunta va avea loc la Conacul Secuiesc situat în Transilvania rurală. Locul de desfășurare este în umbra Piatrei Secuiului cu frumos
+               priveliști asupra terenurilor agricole românești rustice, a unui iaz de crini și a ruinelor Cetății Trascău.
+               <br> <br>
+               Locul de desfășurare, mâncarea și cazările vor fi tradițional românești. Totuși, lista invitaților la nuntă reflectă
+               timpul petrecut în străinătate și oamenii uimitori pe care i-am întâlnit pe parcurs. Abia așteptăm să ne alăturați și să ne ajutați
+               ne sărbătorim propria noastră uniune multiculturală.
+               <br> <br>
+               Ceremonia și evenimentele vor avea loc atât în limba engleză, cât și în limba română"
 
 
 ############################# Service ############################
