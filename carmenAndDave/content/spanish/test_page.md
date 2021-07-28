@@ -2,6 +2,7 @@
 title: "Test Test Test"
 subtitle : "And having a great time while you're here!"
 bg_image: "images/cluj_napoca.jpeg"
+layout: "information"
 draft: false
 menu:
   main:
@@ -12,4 +13,4 @@ menu:
     weight: 30
 ---
 
-what the fuck
+test test 

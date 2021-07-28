@@ -1,15 +1,16 @@
 ---
-title: "Test Test Test"
+title: "Lodging"
 subtitle : "And having a great time while you're here!"
 bg_image: "images/cluj_napoca.jpeg"
+layout: "information"
 draft: false
 menu:
   main:
-    name: "Test"
-    weight: 30
+    name: "Lodging"
+    weight: 3
   footer:
     name: "Test"
-    weight: 30
+    weight: 3
 ---
 
-what the fuck
+test test 

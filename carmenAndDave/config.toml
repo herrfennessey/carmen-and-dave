@@ -43,7 +43,7 @@ ordered = false
 
 ################################# Default parameters ##########################
 [params]
-logo = "images/logo.png"
+logo = "images/heart_hollow_two_countries.png"
 logo_width = "150px"
 # OpenGraph / Twitter Card metadata
 description = "This is meta description"
