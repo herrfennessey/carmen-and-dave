@@ -186,59 +186,22 @@ languageName = "English"
 languageCode = "en-US"
 contentDir = "content/english"
 weight = 1
-copyright = "Copyright &copy; 2021 [Themefisher](https://themefisher.com). All Rights Reserved."
-
-# Navigation menus
-# NOTE: Leaf entries linking to content should be defined in the content file's respective front matter.
-[[languages.en.menu.main]]
-hasChildren = true
-name = "More"
-weight = 5
+copyright = "Copyright &copy; 2021 - Made with &#9829; by Dave for Carmen"
 
 
-################################# French translation ##########################
-[languages.fr]
-languageName = "Français"
-languageCode = "fr-FR"
-contentDir = "content/french"
+################################# Spanish translation ##########################
+[languages.es]
+languageName = "Español"
+languageCode = "es-ES"
+contentDir = "content/spanish"
 weight = 2
-copyright = "Copyright &copy; 2021 [Themefisher](https://themefisher.com). Tous droits réservés."
-
-# Navigation menus
-# NOTE: Leaf entries linking to content should be defined in the content file's respective front matter.
-[[languages.fr.menu.main]]
-hasChildren = true
-weight = 5
-name = "Plus"
+copyright = "Copyright &copy; 2021 - Hecho con &#9829; por Dave para Carmen"
 
 
-################################# Italian translation ##########################
-[languages.it]
-languageName = "Italiano"
-languageCode = "it-IT"
-contentDir = "content/italian"
-weight = 2
-copyright = "Copyright &copy; 2021 [Themefisher](https://themefisher.com). Tutti i diritti riservati."
-
-# Navigation menus
-# NOTE: Leaf entries linking to content should be defined in the content file's respective front matter.
-[[languages.it.menu.main]]
-hasChildren = true
-weight = 5
-name = "Più"
-
-
-################################# German translation ##########################
-[languages.de]
-languageName = "Deutsch"
-languageCode = "de-DE"
-contentDir = "content/german"
+################################# Romanian translation ##########################
+[languages.ro]
+languageName = "Română"
+languageCode = "ro-RO"
+contentDir = "content/romanian"
 weight = 3
-copyright = "Copyright &copy; 2021 [Themefisher](https://themefisher.com). Alle Rechte vorbehalten."
-
-# Navigation menus
-# NOTE: Leaf entries linking to content should be defined in the content file's respective front matter.
-[[languages.de.menu.main]]
-hasChildren = true
-name = "Mehr"
-weight = 5
+copyright = "Copyright &copy; 2021 - Făcut din &#9829; de catre David pentru Carmen"
