@@ -53,6 +53,11 @@ store for about 6-10 euros if your phone is unlocked. The Orange and Vodafone ne
 All around Cluj, you should have full LTE, however the coverage is a little spotty at the venue (EDGE/3G), so if you're 
 using your phone for google maps, we would recommend downloading the maps offline.  
 
+### Emergency Numbers
+
+<b>112</b> - Police / Fire / Ambulance
+
+
 ### Currency
 
 Romania uses the Leu (Lei for plural). It is about 4 Leu to a US Dollar, and 5 Leu to a Euro.

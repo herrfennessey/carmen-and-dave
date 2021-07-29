@@ -48,7 +48,7 @@ logo_width = "150px"
 # OpenGraph / Twitter Card metadata
 description = "This is meta description"
 author = "Themefisher"
-image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
+image = "images/heart_hollow_two_countries.png" # this image will be used as fallback if a page has no image of its own
 
 
 ################################# Sidebar widgets #############################

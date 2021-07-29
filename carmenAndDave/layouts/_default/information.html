@@ -2,20 +2,59 @@
 
 {{ partial "page-title.html" . }}
 
-<section class="page-wrapper">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-4 sticky-top">
-        <h2>{{ .Title }}</h2>
-        {{ with .Params.subtitle }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
-        <h3>{{ i18n "faq_toc_title" }}</h3>
-        {{ .TableOfContents }}
-      </div>
-      <div class="col-md-8">
-        {{ .Content }}
-      </div>
+<!-- info 1 -->
+{{ with .Params.info1 }}
+{{ if .enable }}
+<section class="about section">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-7 col-sm-12">
+                <div class="block">
+                    <div class="section-title">
+                        {{ with .title }}<h2>{{ . | markdownify }}</h2>{{ end }}
+                        {{ with .description }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
+                    </div>
+                    {{ with .content }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
+                </div>
+            </div>
+            <div class="col-md-5 col-sm-12">
+                <div class="block">
+                    <img src="{{ .image | relURL }}" class="img-responsive" alt="Img">
+                </div>
+            </div>
+        </div>
     </div>
-  </div>
 </section>
+{{ end }}
+{{ end }}
+<!-- /info 1 -->
+
+<!-- info 2 -->
+{{ with .Params.info2 }}
+{{ if .enable }}
+<section class="about section">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-5 col-sm-12">
+                <div class="block">
+                    <img src="{{ .image | relURL }}" class="img-responsive" alt="Img">
+                </div>
+            </div>
+            <div class="col-md-7 col-sm-12">
+                <div class="block">
+                    <div class="section-title">
+                        {{ with .title }}<h2>{{ . | markdownify }}</h2>{{ end }}
+                        {{ with .description }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
+                    </div>
+                    {{ with .content }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}
+{{ end }}
+<!-- /info 2 -->
+
 
 {{ end }}
