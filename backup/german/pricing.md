@@ -19,7 +19,6 @@ pricing:
   pricing_table:
   # pricing table loop
   - name : "Basic"
-    price: "$99"
     content : "Perfect for single freelancers who work by themselves"
     link : "#"
     services:
