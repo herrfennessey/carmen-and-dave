@@ -25,6 +25,6 @@ about:
   button:
     enable : true
     label : "Fill out Google Form"
-    link : "https://forms.gle/7t1t1dEMVsBrxfBb9"
+    link : "https://forms.gle/FcV3Ab7epAThfHRs9"
     
 ---

@@ -36,6 +36,8 @@ pricing:
     - Cake - 8 PM
     - Bonfire - 9 PM
     - Last Call - 10 PM
+    - Bedtime - Whenever
+
 
   - name : "Sunday"
     content : "For people staying at the venue"

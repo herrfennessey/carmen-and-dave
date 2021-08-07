@@ -47,7 +47,7 @@ featured_service:
 service:
   enable : true
   title : "Quick Information"
-  description : "More information is available in the Travel Arrangements page of this site"
+  description : "More information is available on the other pages of this site"
   service_item:
     # service item loop
     - icon : ion-android-plane #ionicon pack v2 : https://ionicons.com/v2/
@@ -61,12 +61,12 @@ service:
 
     # service item loop
     - icon : ion-ios-calendar-outline #ionicon pack v2 : https://ionicons.com/v2/
-      name: Date
+      name: Ceremony Date
       content: "July 2nd, 2022"
 
     # service item loop
     - icon : ion-heart #ionicon pack v2 : https://ionicons.com/v2/
-      name: Ceremony
+      name: Ceremony Time
       content: "The wedding ceremony will begin at 12:30 PM"
 
     # service item loop
@@ -77,12 +77,12 @@ service:
     # service item loop
     - icon : ion-android-home #ionicon pack v2 : https://ionicons.com/v2/
       name: Lodging
-      content: "We have reserved 27 rooms at the venue, however, there are hotels within 30-40 minutes by car"
+      content: "We have reserved 27 rooms at the venue, however, there are many inns in the village 5 minutes down the road, if needed"
 
     # service item loop
     - icon : ion-android-people #ionicon pack v2 : https://ionicons.com/v2/
       name: Kids
-      content: "There is a playground on the property, games & activities, and changing facilities in the hotel"
+      content: "There is a playground on the property, games & activities in the fields, and changing facilities in the hotel"
 
     # service item loop
     - icon : ion-bowtie #ionicon pack v2 : https://ionicons.com/v2/

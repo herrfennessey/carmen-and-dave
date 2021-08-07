@@ -27,7 +27,7 @@ you'll be applying for is "Tourism (marked C/TU)"
 
 ### Getting to and from the venue
 
-For people who are staying at the venue, or nearby, we do plan on shuttling people from the airport with more details to come.
+For people who are staying at the venue, or nearby, we plan on shuttling people from the airport with more details to come.
 We also plan on shuttling people back to some major hotels after the event is concluded (so people can drink). 
 <br><br>
 For people who don't mind driving themselves, or want the flexibility, there are many rental car companies available 
@@ -70,4 +70,4 @@ especially to rural areas, cash could be useful.
 ### Tipping
 
 All of the venue staff will be fully paid and tipped, but if you would like, you can tip them in USD, EUR, or Lei.<br><br>In general in Romania, 
-in restaurants and bars, you typically tip anywhere from 5% to 10%, usually the higher the bill, the smaller the % tip. 
+in restaurants and bars, you typically tip anywhere from 5% to 10%, usually the higher the bill, the smaller the tip percentage. 
