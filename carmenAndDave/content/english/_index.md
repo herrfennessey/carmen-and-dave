@@ -22,11 +22,11 @@ about:
   to a weekend brunch to catch up, as it had been a while since they had seen each other. Emma had made the excuse 
   that she had already made plans to hang out with Dave that day, and asked if he could come as well.<br><br>Dave, on the 
   other hand, got plenty of warning, and was fully briefed on what Emma was planning on doing. He even invited the best 
-  winglady he knew to hype him up, his sister Shelley. David had plenty of time to be nervous leading up to the date, but the first  
-  impression went well! There was only one problem - Carmen thought Dave and Shelley were married because Shelley was wearing her wedding band.
+  winglady he knew to hype him up, his sister Shelley, who had prepared all of her best anecdotes where Dave would sound
+  like the hero. There was only one problem - Carmen thought Dave and Shelley were married because Shelley was wearing her wedding band.
   Thankfully though, after a bit of hasty explanation, the ruse worked, and here we are today!
   <br><br> While Carmen is still annoyed that she 
-  was set up on a brunch she had scheduled herself, she and Dave live happily together in Berlin with their two pets, Luna and Mario."
+  was set up on a brunch she had scheduled herself, she and Dave have been together since, and now live happily together in Berlin with their two pets, Luna and Mario."
   image: "images/mario_luna.jpeg"
 
 
