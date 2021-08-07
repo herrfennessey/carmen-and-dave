@@ -18,7 +18,8 @@ info1:
   image: "images/conacul_inside.jpg"
   content: "We have reserved the entire venue for the wedding weekend, and we have 27 rooms available for guests.
   We plan on prioritizing the rooms for family members, and guests who have come from outside of Romania.<br><br>Currently, 
-  we need to count confirmed guests in order to know how much space we will have available. We would appreciate groups of 
+  we need to count confirmed guests in order to know how much space we will have available. Once we have a more solid count,
+  we will communicate with people to let them know what the arrangements will be. We would appreciate groups of 
   friends and families to share rooms to make as much space as possible, so we can all get drunk and have a good time. 
   <br><br>
   **Check-In: Friday, July 1st, 2022 15:00**
