@@ -25,8 +25,6 @@ info1:
   <br>
   **Check-Out: Sunday, July 3rd, 2022 11:00** *(Late checkout is possible if necessary)*
   <br>
-  **Cost: 100€ p/p**
-  <br>
   **Includes: Room + Friday Dinner, Saturday Breakfast, Sunday Breakfast**
   "
   

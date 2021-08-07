@@ -6,10 +6,10 @@ draft: false
 menu:
   main:
     name: "RSVP"
-    weight: 6
+    weight: 5
   footer:
     name: "RSVP"
-    weight: 6
+    weight: 5
     
 
 
