@@ -40,7 +40,7 @@ info2:
   title: "Pensiune"
   image: "images/pensiune.jpg"
   content: "If there is no more room for people who want to stay near the venue, we would suggest people stay in the 
-  neighboring town of Rimetea which has quite a few charming lodges and inns. It is a 5 minute drive, and we can arrange
+  neighboring town of Rimetea which has quite a few charming lodges and inns, called "Pensiune" in Romanian. It is a 5 minute drive, and we can arrange
   transport to and from the venue should the need arise.
    
   <!-- <table style=\"width:100%\">
