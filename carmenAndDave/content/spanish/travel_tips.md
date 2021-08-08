@@ -61,7 +61,7 @@ using your phone for google maps, we would recommend downloading the maps offlin
 
 Romania uses the Lei, not the Euro. It is about 4 Lei to a US Dollar, and 5 Lei to a Euro.
 The ATM's in Romania typically charge quite a hefty fee in addition to whatever currency exchange fees are applied, so we 
-would recommend exchanging currency at money exchangers in Cluj if you would like to have cash with you.<br><br>
+would recommend exchanging currency at major banks in Cluj, or the money exchangers (might not speak English) if you would like to have cash with you.<br><br>
 Nearly every store in Cluj Napoca, gas stations, and supermarkets accept credit card, even American ones, although we would
 recommend bringing a card with a chip on it. Everything at the venue is paid for, but if you plan on traveling or sightseeing afterwards, 
 especially to rural areas, cash could be useful.  
