@@ -24,7 +24,7 @@ about:
 
   button:
     enable : true
-    label : "Fill out Google Form"
+    label : "Fill out RSVP"
     link : "https://forms.gle/7t1t1dEMVsBrxfBb9"
     
 ---
