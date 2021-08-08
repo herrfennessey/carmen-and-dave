@@ -34,9 +34,9 @@ about:
   image: "images/mario_luna.jpeg"
 
 ######################### Portfolio ###############################
-portfolio:
+info2:
   enable: true
-  bg_image: "images/conacul-secuiesc.jpg"
+  image: "images/conacul-secuiesc.jpg"
   title: "THE WEDDING"
   content: "The wedding will be held at Conacul Secuiesc located in rural Transylvania. The venue is in the shadow of the Piatra Secuiului with beautiful
   views onto rustic Romanian farmland, a lily pond, and the ruins of Trascău Fortress.
@@ -47,6 +47,7 @@ portfolio:
   <br><br>
   The ceremony and events will be conducted in both English and Romanian to the best of our abilities... Don't worry though -  
   there will be plenty of țuică, which brings fluency in every language after enough shots."
+
 
 ############################# Service ############################
 service:

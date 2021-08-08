@@ -35,9 +35,9 @@ about:
 
 
 ######################### Portfolio ###############################
-portfolio:
+info2:
   enable: true
-  bg_image: "images/conacul-secuiesc.jpg"
+  image: "images/conacul-secuiesc.jpg"
   title: "THE WEDDING"
   content: "The wedding will be held at Conacul Secuiesc located in rural Transylvania. The venue is in the shadow of the Piatra Secuiului with beautiful
   views onto rustic Romanian farmland, a lily pond, and the ruins of Trascău Fortress.
