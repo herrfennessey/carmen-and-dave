@@ -28,7 +28,6 @@ you'll be applying for is "Tourism (marked C/TU)"
 ### Getting to and from the venue
 
 For people who are staying at the venue, or nearby, we plan on shuttling people from the airport with more details to come.
-We also plan on shuttling people back to some major hotels after the event is concluded (so people can drink). 
 <br><br>
 For people who don't mind driving themselves, or want the flexibility, there are many rental car companies available 
 from the airport if you'd like to drive yourself to the venue. Booking in advance is always better, because there are a few 
