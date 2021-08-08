@@ -10,27 +10,27 @@ banner:
   bg_image: "images/save_the_date_scaled.jpg"
   bg_overlay: true
   title: "Carmen & Dave"
-  content: "Conacul Secuiesc, Colțești, Romania <br> July 2, 2022"
+  content: "Conacul Secuiesc, Colțești, Romania <br> 2 de Julio, 2022"
   
 ############################# About #################################
 about:
   enable: true
-  title: "Our Story"
+  title: "Nuestra historia"
   description: "A Romanian and an American walk into a bar..."
-  content: "Carmen and Dave's first date was actually a blind setup by a mutual friend of both of theirs, Emma.
-    <br><br>Carmen invited Emma to a weekend brunch to catch up, as it had been a while since they had seen each other.
-    Unbeknownst to her, however, Emma had already secretly been communicating with
-    Dave, letting him know she had a cute, single, Romanian friend, and asked if he'd like to meet her. Once Dave (very quickly) agreed, Emma made the excuse 
-    to Carmen that she unfortunately had already made plans to hang out with Dave on the day of the brunch, and asked if he could come as well.<br><br>
-    Dave, to prepare, invited the best 
-    winglady he knew to hype him up, his sister Shelley. Shelley was prepared with all of her best personal anecdotes where Dave would sound
-    like the hero, and would temporarily skip the embarrassing ones in her rotation to give him the best shot possible. The
-    brunch went well, but there there was only one problem - Shelley was wearing her wedding band.
-    While Dave did check all of Carmen's wishlist boxes of blond, tall, and blue eyes, she thought Dave and Shelley were married, 
-    so she was much more focused on her pancakes than anything else. 
-    Thankfully though, after a bit of hasty explanation from Emma later, the ruse worked! 
-    <br><br> While Carmen is still annoyed that she 
-    was set up on a brunch she had scheduled herself, she and Dave have been together since, and now live happily together in Berlin with their two pets, Luna and Mario."
+  content: "La primera cita de Carmen y Dave fue en realidad una cita a ciegas por una amiga en común de ambos, Emma.
+    <br><br>Carmen invitó a Emma a un brunch de fin de semana para ponerse al día, ya que había pasado un tiempo desde que se habían visto.
+                Sin que Carmen lo supiera, Emma ya estaba en contacto en secreto con
+                 Dave, para presentarle a una amiga rumana soltera que tenia! Dave estaba muy interesado en conocer a Carmen y Emma se disculpo con
+                 Carmen, que ya había hecho planes con Dave en el día del brunch y le preguntó si él también podía unirse al brunch.<br><br>
+    Dave, para hacer una buena impresion, invitó a los mejores
+         su hermana, Shelley,para que le apoyara. Shelley estaba preparada para compartir las mejores anécdotas personales de Dave que lo presentarian
+         como el héroe, y omitiría todo lo vergonzoso El
+         brunch fue un exito, pero solo había un problema: Shelley llevaba su anillo de matrimonio.
+         Dave cumplia todos lod lista de deseos de Carmen de ojos rubios, altos y azules, pero ella pensó que Dave y Shelley estaban casados.
+         así que estaba mucho más concentrada en sus panqueques que en cualquier otra cosa.
+         Afortunadamente, después las cosas se clarificaron y la artimaña funcionó! 
+    <br><br> Mientras Carmen todavía está molesta porque
+                  cayo en la trampa en el brunch ella misma había programado. Desde entoces, Carmen y Dave siguen juntos y ahora viven felices en Berlín junto a sus dos mascotas, Luna y Mario."
   image: "images/mario_luna.jpeg"
 
 
@@ -38,16 +38,16 @@ about:
 info2:
   enable: true
   image: "images/conacul-secuiesc.jpg"
-  title: "THE WEDDING"
-  content: "The wedding will be held at Conacul Secuiesc located in rural Transylvania. The venue is in the shadow of the Piatra Secuiului with beautiful
-  views onto rustic Romanian farmland, a lily pond, and the ruins of Trascău Fortress.
+  title: "LA BODA"
+  content: "La boda tendra lugar en el Conacul Secuiesc ubicado en la zona rural de Transilvania. El lugar  se encuentra cerca de Piatra Secuiului con hermosas
+               vistas a las rústicas tierras de cultivo rumanas, un estanque de nenúfares y las ruinas de la fortaleza Trascău.
   <br><br>
-  The venue, the food, and the accommodations will be traditionally Romanian. The wedding guest list, however, reflects 
-  our time living abroad, and the amazing people we met along the way. We cannot wait for you all to join us, and help
-  us celebrate our own multicultural union. 
+ El sitio de la boda, la comida y el alojamiento serán tradicionalmente rumanos. La lista de invitados a la boda, sin embargo, refleja
+    nuestro tiempo viviendo en el extranjero y la gente increíble que conocimos durante nuestro camino. Tenemos muchas ganas de verlos a todos y que nos ayuden
+  a celebrar nuestra unión multicultural.
   <br><br>
-  The ceremony and events will be conducted in both English and Romanian to the best of our abilities... Don't worry though -  
-  there will be plenty of țuică, which brings fluency in every language after enough shots."
+  La ceremonia y los eventos se llevarán a cabo en inglés y rumano lo mejor que podamos ... No se preocupe,-
+     Habrá mucha țuică, que aporta fluidez en todos los idiomas después tomar suficientes vasos."
 
 
 ############################# Service ############################
