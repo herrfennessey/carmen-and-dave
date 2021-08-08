@@ -15,7 +15,7 @@ banner:
 ############################# About #################################
 about:
   enable: true
-  title: "Our Story"
+  title: "Nuestra Historia"
   description: "A Romanian and an American walk into a bar..."
   content: "Carmen and Dave were actually set up on a blind date by a mutual friend, Emma, whom she knew from when she 
     lived in Berlin. Carmen had invited Emma
