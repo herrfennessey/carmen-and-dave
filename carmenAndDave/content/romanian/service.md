@@ -46,8 +46,8 @@ featured_service:
 ############################# Service ###############################
 service:
   enable : true
-  title : "Quick Information"
-  description : "More information is available on the other pages of this site"
+  title : "Informații utile"
+  description : "Mai multe detalii sunt disponibile pe urmatoarele pagini"
   service_item:
     # service item loop
     - icon : ion-android-plane #ionicon pack v2 : https://ionicons.com/v2/
@@ -56,23 +56,23 @@ service:
 
     # service item loop
     - icon : ion-ios-world-outline #ionicon pack v2 : https://ionicons.com/v2/
-      name: Location
+      name: Locatie
       content: "Conacul Secuiesc<br>Colțești, Romania"
 
     # service item loop
     - icon : ion-ios-calendar-outline #ionicon pack v2 : https://ionicons.com/v2/
-      name: Ceremony Date
-      content: "July 2nd, 2022"
+      name: Data nunții
+      content: "2 Iulie, 2022"
 
     # service item loop
     - icon : ion-heart #ionicon pack v2 : https://ionicons.com/v2/
-      name: Ceremony Time
-      content: "The wedding ceremony will begin at 12:30 PM"
+      name: Ora Ceremoniei
+      content: "Ceremonia va începe la ora 12:30 PM"
 
     # service item loop
     - icon : ion-pizza #ionicon pack v2 : https://ionicons.com/v2/
-      name: Food & Drink
-      content: "Food and drinks will start at 2 PM. There will be a LOT of food, so pace yourself!"
+      name: Masa
+      content: "Servirea mesei va începe la ora 14.00 "
 
     # service item loop
     - icon : ion-android-home #ionicon pack v2 : https://ionicons.com/v2/
@@ -81,13 +81,13 @@ service:
 
     # service item loop
     - icon : ion-android-people #ionicon pack v2 : https://ionicons.com/v2/
-      name: Kids
-      content: "There is a playground on the property, games & activities in the fields, and changing facilities in the hotel"
+      name: Copii
+      content: "Existã un parc pe proprietatea Conacului și facilități pentru schimbarea bebelușilor"
 
     # service item loop
     - icon : ion-bowtie #ionicon pack v2 : https://ionicons.com/v2/
-      name: Dress Code
-      content: "Semi-formal, but shorts and open-toed shoes are fine. It will be held outside on a grassy field and it's going to be hot 30°C (86°F)"
+      name: Cod vestimentar
+      content: "Semi-formal, Ceremonia va fi afara la probabil peste 30 de grade. Recomandãm tocuri adaptabile pentru iarbã"
 
 ############################# call to action #################################
 cta:

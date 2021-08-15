@@ -46,48 +46,48 @@ featured_service:
 ############################# Service ###############################
 service:
   enable : true
-  title : "Quick Information"
-  description : "More information is available on the other pages of this site"
+  title : "Resumen"
+  description : "Encontrarás información detallada en las otras páginas de esta web."
   service_item:
     # service item loop
     - icon : ion-android-plane #ionicon pack v2 : https://ionicons.com/v2/
-      name: Airport
-      content: "The nearest airport is Cluj-Napoca (CLJ)"
+      name: Aeropuerto
+      content: "El aeropuerto más cercano es el de Cluj- Napoca(CLJ)"
 
     # service item loop
     - icon : ion-ios-world-outline #ionicon pack v2 : https://ionicons.com/v2/
-      name: Location
+      name: Lugar de la boda
       content: "Conacul Secuiesc<br>Colțești, Romania"
 
     # service item loop
     - icon : ion-ios-calendar-outline #ionicon pack v2 : https://ionicons.com/v2/
-      name: Ceremony Date
-      content: "July 2nd, 2022"
+      name: Fecha de la boda
+      content: "2 de Julio, 2022"
 
     # service item loop
     - icon : ion-heart #ionicon pack v2 : https://ionicons.com/v2/
-      name: Ceremony Time
-      content: "The wedding ceremony will begin at 12:30 PM"
+      name: Hora de la ceremonia
+      content: "La ceremonia de boda comenzará a las 12:30 PM"
 
     # service item loop
     - icon : ion-pizza #ionicon pack v2 : https://ionicons.com/v2/
-      name: Food & Drink
-      content: "Food and drinks will start at 2 PM. There will be a LOT of food, so pace yourself!"
+      name: Comida & Bebidas
+      content: "La comida empezara a ser servida a las 2 PM. Habrá muchissima comida!"
 
     # service item loop
     - icon : ion-android-home #ionicon pack v2 : https://ionicons.com/v2/
-      name: Lodging
-      content: "We have reserved 27 rooms at the venue, however, there are many inns in the village 5 minutes down the road, if needed"
+      name: Alojamiento
+      content: "Hemos reservado todo el alojamiento disponible en el Conac, 27 habitaciones. Igualmente habrán posibilidades de alojarse a unos 5 minutos del sitio de la boda"
 
     # service item loop
     - icon : ion-android-people #ionicon pack v2 : https://ionicons.com/v2/
-      name: Kids
-      content: "There is a playground on the property, games & activities in the fields, and changing facilities in the hotel"
+      name: Niños
+      content: "Hay un patio para niños en el lugar de la boda y cambiador para bebes en los baños"
 
     # service item loop
     - icon : ion-bowtie #ionicon pack v2 : https://ionicons.com/v2/
       name: Dress Code
-      content: "Semi-formal, but shorts and open-toed shoes are fine. It will be held outside on a grassy field and it's going to be hot 30°C (86°F)"
+      content: "Semi-formal, pantalón corto o zapato abierto también aceptado. Probablemente habrán mas de 30 grados afueras y el césped no será muy confortable para stilletos" 
 
 ############################# call to action #################################
 cta:

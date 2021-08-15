@@ -26,17 +26,15 @@ pricing:
     - Bonfire - 10 PM
     - Breakfast (on Saturday) - 8 AM
 
-  - name : "Saturday"
-    content : "For everyone!"
+  - name : "Sâmbãtã"
+    content : ""
     link : "#"
     services:
     - Arrive at - Noon 
-    - Ceremony Starts - 12:30 PM
-    - Lunch + Dinner - Start at 2 PM
-    - Cake - 8 PM
-    - Bonfire - 9 PM
-    - Last Call - 10 PM
-    - Bedtime - Whenever
+    - Ora Ceremoniei - 12:30 PM
+    - Masa - Incepe la ora 14.00 
+    - Tort - 20.00 
+    - Foc de tabara - 21.00 
 
 
   - name : "Sunday"

@@ -1,15 +1,15 @@
 ---
-title: "Itinerary"
+title: "Agenda"
 subtitle : "And having a great time while you're here!"
 bg_image: "images/venue_building.jpg"
 layout: "pricing"
 draft: false
 menu:
   main:
-    name: "Itinerary"
+    name: "Agenda"
     weight: 4
   footer:
-    name: "Itinerary"
+    name: "Agenda"
     weight: 4
     
 
@@ -17,32 +17,32 @@ menu:
 pricing:
   enable : true
   pricing_table:
-  - name : "Friday"
-    content : "For people staying at the venue"
+  - name : "Viernes"
+    content : "Para los invitados que se alojan en el Conac"
     link : "#"
     services:
-    - Check-In - Starts at 3 PM
-    - Dinner - 7 PM
-    - Bonfire - 10 PM
-    - Breakfast (on Saturday) - 8 AM
+    - Check-In - Empieza a las 3 PM
+    - Cena - 7 PM
+    - Hoguera - 10 PM
+    - Desayuno (Sábado) - 8 AM
 
-  - name : "Saturday"
-    content : "For everyone!"
+  - name : "Sábado"
+    content : "Para todos los invitados!"
     link : "#"
     services:
-    - Arrive at - Noon 
-    - Ceremony Starts - 12:30 PM
-    - Lunch + Dinner - Start at 2 PM
-    - Cake - 8 PM
-    - Bonfire - 9 PM
-    - Last Call - 10 PM
-    - Bedtime - Whenever
+    - Llegada- Medio-dia  
+    - Ceremonia - 12:30 PM
+    - Almuerzo y cena - Empieza a las 2 PM
+    - Pastel de boda - 8 PM
+    - Hoguera - 9 PM
+    
 
-  - name : "Sunday"
-    content : "For people staying at the venue"
+
+  - name : "Domingo"
+    content : "Para los invitados que se alojan en el Conac"
     link : "#"
     services:
-    - Breakfast - 8 AM
+    - Desayuno - 8 AM
     - Check-out - 11 AM
     
 ---

@@ -1,72 +1,75 @@
 ---
-title: "Traveling To Romania"
+title: "Viajando a Rumania"
 description: ""
-subtitle : "And having a great time while you're here!"
+subtitle : "Disfruta de tu estancia!"
 lastmod: 2021-07-27T00:00:00
 bg_image: "images/cluj_napoca.jpeg"
 layout: "faq"
 draft: false
 menu:
   main:
-    name: "Travel Tips"
+    name: "Consejos de viaje"
     weight: 2
   footer:
-    name: "Travel Tips"
+    name: "Consejos de viaje"
     weight: 1
 ---
 
-### Corona Information
+### Informacion sobre Corona
 
 
-### Visas
+### Visado
 
-Romania is not in the Schengen travel zone, so if you have a non EU passport, you will go through passport control. Most 
-travelers will not need a visa. You can check whether or not you need a visa by going here
-([http://evisa.mae.ro/](http://evisa.mae.ro/)) by clicking "Get Informed" on the top left. The type of visa 
-you'll be applying for is "Tourism (marked C/TU)"
+Rumania no se encuentra en la zona de viaje de Schengen, por lo que tienes que pasar por el control de pasaportes. La mayoría
+los viajeros no necesitarán visado. Puede comprobar si necesita o no una visa aquí
+([http://evisa.mae.ro/](http://evisa.mae.ro/)) haciendo clic en "Get Informed" arriba a la izquierda. n la parte superior izquierda. El tipo de visa que solicitará es
+T "Tourism (marked C/TU)"
 
-### Getting to and from the venue
+### Ida y Vuelta Lugar de la boda
 
-For people who are staying at the venue, or nearby, we plan on shuttling people from the airport with more details to come.
-<br><br>
-For people who don't mind driving themselves, or want the flexibility, there are many rental car companies available 
-from the airport if you'd like to drive yourself to the venue. Booking in advance is always better, because there are a few 
-major festivals that happen in Cluj in the summer which might affect rental car availability. 
+Para las personas que se quedan en el lugar de la boda o cerca, planeamos trasladar a las personas desde el aeropuerto(más detalles cercano a la fecha) .
+<br> <br>
+Para las personas a las que no les importa conducir o que desean flexibilidad, hay muchas empresas de alquiler de coches disponibles en el aropuerto o que traen el coche al aeropuerto.
+Siempre es mejor reservar con anticipación, porque hay algunos
+festivales importantes que tienen lugar en Cluj en el verano que pueden afectar la disponibilidad de coches de alquiler.
 
-### Driving In Romania
+### Conducir en Rumania
 
-Driving in Romania can be a little chaotic, and is about on par with in Italy. Public transit such as trains and subways 
-are not well developed, and biking can be hazardous given how fast people drive. The only way to really get from city to city, 
-especially rural destinations is via car. 
-<br><br>
-In big cities, parking can be difficult, although spots are quite plentiful in the countryside.  
+Conducir en Rumania puede ser un poco caótico y está a la par con Italia. Transporte público como trenes o metro
+no están bien desarrolladas y andar en bicicleta puede ser peligroso dada la rapidez con la que conducen las personas. La única forma de llegar realmente de una ciudad a otra,
+especialmente los destinos rurales es en coche.
+En la ciudad puedes utilizar la aplicacion de Uber o Bolt para transporte. 
+<br> <br>
+En las grandes ciudades, aparcar puede resultar complicado, aunque las plazas son bastante abundantes en el sitio de la boda.
 <br>
-<b>Romania has a legal blood alcohol level level of 0.0 - meaning if you plan on driving, do not drink.</b>
-
-### Cell Phones
-
-Romania is in the EU, so all EU based phone plans will have full service and data upon landing. If your phone plan doesn't allow 
-international travel, or it's prohibitively expensive, you can buy a prepaid SIM card at the Cluj Napoca Airport at the Relay
-store for about 6-10 euros if your phone is unlocked. The Orange and Vodafone network hae the strongest coverage around Romania.
-<br><br>
-All around Cluj, you should have full LTE, however the coverage is a little spotty at the venue (EDGE/3G), so if you're 
-using your phone for google maps, we would recommend downloading the maps offline.  
-
-### Emergency Numbers
-
-<b>112</b> - Police / Fire / Ambulance
+<b> Rumania tiene un nivel legal de alcohol en sangre de 0.0, lo que significa que si planea conducir, no beba. </b>
 
 
-### Currency
 
-Romania uses the Lei, not the Euro. It is about 4 Lei to a US Dollar, and 5 Lei to a Euro.
-The ATM's in Romania typically charge quite a hefty fee in addition to whatever currency exchange fees are applied, so we 
-would recommend exchanging currency at major banks in Cluj, or the money exchangers (might not speak English) if you would like to have cash with you.<br><br>
-Nearly every store in Cluj Napoca, gas stations, and supermarkets accept credit card, even American ones, although we would
-recommend bringing a card with a chip on it. Everything at the venue is paid for, but if you plan on traveling or sightseeing afterwards, 
-especially to rural areas, cash could be useful.  
+### Telefóno movil
+
+Rumanía se encuentra en la UE, por lo que todos los planes telefónicos de la UE tendrán servicio completo y datos al aterrizar. Si su plan telefónico no lo permite
+viajes internacionales, o es prohibitivamente caro, puede comprar una tarjeta SIM prepago en el aeropuerto de Cluj Napoca en la tienda Relay
+por unos 6-10 euros si su teléfono está desbloqueado par otras redes. La red de Orange y Vodafone tiene la cobertura más sólida de Rumanía.
+<br> <br>
+En toda la ciudad de Cluj, debe tener LTE completo, sin embargo, la cobertura es un poco irregular en el lugar de la boda (EDGE / 3G), así que si está
+utilizando su teléfono para los mapas de Google, le recomendamos que descargue los mapas sin conexión.
+
+### Telefóno móvil
+
+<b>112</b> - Policía / Bomberos / Ambulancia
+
+
+### Moneda
+
+Rumania usa el lei, no el euro. Se trata de 4 lei por dólar estadounidense y de 5 lei por euro.
+Los cajeros automáticos en Rumania generalmente cobran una tarifa bastante alta además de las tarifas de cambio de moneda que se aplican, por lo que
+recomendaría cambiar divisas en los principales bancos de Cluj o en las casas de cambio (es posible que no hablen inglés) si desea llevar dinero en efectivo. <br> <br>
+Casi todas las tiendas en Cluj Napoca, gasolineras y supermercados aceptan tarjetas de crédito, incluso estadounidenses, aunque lo haríamos
+Recomiendo traer una tarjeta con chip. Todo en el lugar está pagado, pero si planea viajar o hacer turismo después,
+especialmente en las zonas rurales, el efectivo podría resultar útil.
 
 ### Tipping
 
-All of the venue staff will be fully paid and tipped, but if you would like, you can tip them in USD, EUR, or Lei.<br><br>In general in Romania, 
-in restaurants and bars, you typically tip anywhere from 5% to 10%, usually the higher the bill, the smaller the tip percentage. 
+A todo el personal del lugar de la boda se le pagará en su totalidad y se le dará propina, pero si lo desea, puede dar una propina en USD, EUR o Lei. <br> <br> En general, en Rumanía,
+en los restaurantes y bares, por lo general, las propinas oscilan entre el 5% y el 10%; por lo general, cuanto más alta es la cuenta, menor es el porcentaje de propina.

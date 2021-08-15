@@ -1,14 +1,14 @@
 ---
-title: "Accommodations"
+title: "Alojamiento"
 bg_image: "images/conacul_outside.jpg"
 layout: "information"
 draft: false
 menu:
   main:
-    name: "Accommodations"
+    name: "Alojamiento"
     weight: 3
   footer:
-    name: "Accommodations"
+    name: "Alojamiento"
     weight: 3
 
 ############################# Info 1 #################################
@@ -16,17 +16,18 @@ info1:
   enable: true
   title: "Conacul Secuiesc"
   image: "images/conacul_inside.jpg"
-  content: "We have reserved the entire venue for the wedding weekend, and we will have 27 rooms available for guests.
-  We plan on prioritizing the rooms for family members, and guests who have come from outside of Romania.<br><br>Currently, 
-  we need to count confirmed guests in order to know how much space we will have available. Once we have a more solid count,
-  we will communicate with people to let them know what the arrangements will be. We would appreciate groups of 
-  friends and families to share rooms to make as much space as possible, so we can all get drunk and stumble the 100 feet to bed. 
+  content: "Hemos reservado todo el lugar para el fin de semana de bodas y tendremos 27 habitaciones disponibles para los invitados.
+               Planeamos priorizar las habitaciones para los miembros de la familia y los huéspedes que vienen de fuera de Rumania. <br> <br> Actualmente,
+               necesitamos contar los invitados confirmados para saber cuánto espacio tendremos disponible. Una vez que tengamos un recuento más sólido,
+               nos pondremos en contacto con las personas para informarles cuál será la distribución . Agradeceríamos grupos de
+               amigos y familias para compartir habitaciones para hacer el mayor espacio posible y para que todos puedan emborracharse e ir directos a la cama!
+ 
   <br><br>
-  **Check-In: Friday, July 1st, 2022 15:00**
+  **Check-In: Viernes, 1 de Julio, 2022 15:00**
   <br>
-  **Check-Out: Sunday, July 3rd, 2022 11:00** *(Late checkout is possible if necessary)*
+  **Check-Out: Domingo, 3 de Julio, 2022 11:00**
   <br>
-  **Includes: Room + Friday Dinner, Saturday Breakfast, Sunday Breakfast**
+  **Incluye: Habitación  + Cena el Viernes, Desayuno el Sábado, Desayuno el Domingo**
   "
   
   
@@ -36,9 +37,9 @@ info2:
   enable: true
   title: "Pensiune"
   image: "images/pensiune.jpg"
-  content: "If there is no more room for people who want to stay near the venue, we would suggest people stay in the 
-  neighboring town of Rimetea which has quite a few charming lodges and inns, called 'Pensiune' in Romanian. It is a 5 minute drive, and we can arrange
-  transport to and from the venue should the need arise.
+  content: "Si no hay más espacio para las personas que quieran alojarse cerca del lugar, sugerimos que se  queden en el Pueblo de Rimetea, que tiene bastantes albergues y pensiones con encanto, llamado 'Pensiune' en rumano.Rimetea se encuentra a unos 5 minutos del sitio de la boda, y podemos organizar
+               transporte hacia y desde el lugar en caso de que surja la necesidad.
+
    
   <!-- <table style=\"width:100%\">
     <tr>
