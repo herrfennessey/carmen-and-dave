@@ -20,7 +20,7 @@ about:
   content: "La primera cita de Carmen y Dave fue en realidad una cita a ciegas planeada por una amiga en común de ambos, Emma.
              <br><br>Carmen invitó a Emma a un brunch de fin de semana para ponerse al día, ya que había pasado un tiempo desde que se habían visto.
                          Sin que Carmen lo supiera, Emma ya estaba en contacto en secreto con
-                          Dave, para presentarle a una amiga rumana soltera que tenía! Dave estaba muy interesado en conocer a Carmen y Emma se disculpó con
+                          Dave, para presentarle a una amiga rumana soltera que tenía! Dave estaba muy interesado en conocer a Carme. Entonces Emma se disculpó con
                           Carmen, que ya había hecho planes con Dave en el día del brunch y le preguntó si él también podía unirse al brunch.<br><br>
              Dave, para hacer una buena impresión, invitó a
                   su hermana, Shelley, para que le apoyara. Shelley estaba preparada para compartir las mejores anécdotas personales de Dave, presentarlo

@@ -26,7 +26,7 @@ about:
   button:
     enable : true
     label : "Completeazã formularul de confirmare aici"
-    link : "https://forms.gle/7t1t1dEMVsBrxfBb9"
+    link : "https://forms.gle/x3mP43SBXxuqAg1aA"
     content: "Alternativ confirmarile se pot face la numarul de whatsapp: +1 857 389 7175. Vã rugãm indicati numele, numãrul de persoane și preferinte de meniu: Carne (pui, porc, vitã) sau Vegetarian sau Vegan"
     
 ---
