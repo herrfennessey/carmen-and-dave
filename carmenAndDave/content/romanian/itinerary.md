@@ -22,7 +22,7 @@ pricing:
     content : ""
     link : "#"
     services:
-    - Arrive at - Noon 
+  
     - Ora Ceremoniei - 12:30 PM
     - Masa - Incepe la ora 14.00 
     - Tort - 20.00 
