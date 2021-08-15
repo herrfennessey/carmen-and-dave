@@ -23,12 +23,12 @@ about:
                 Dave, spunându-i că are o prietenã drăguțã, singur, româncã și l-a întrebat dacă ar vrea să o cunoască. Odată ce Dave (foarte repede) a fost de acord, Emma s-a scuzat 
                 lui Carmen, că din păcate și-a făcut deja planuri de a sta cu Dave în ziua brunch-ului și a întrebat dacă poate veni și el la brunch-ul lor. <br> <br>
                 Dave, pentru a face o impresie bunã, a invitat-o pe sora lui Shelley. Shelley a fost pregătită cu cele mai bune anecdote personale pentru a-l prezenta pe Dave 
-            Că și pe un erou, pentru a-i facilita cele mai bune șanse. Brunch-ul a mers bine, dar a existat o singură problemă - Shelley purta verigheta de nuntă.
-                În timp ce Dave îndeplinea toate cerințele pe care Carmen le cãuta la un bărbat : ochi blonzi, înalt și ochi albaștrii, ea a crezut că Dave și Shelley sunt căsătoriți,
+                ca și pe un erou, pentru a-i facilita cele mai bune șanse. Brunch-ul a mers bine, dar a existat o singură problemă - Shelley purta verigheta de nuntă.
+                În timp ce Dave îndeplinea toate cerințele pe care Carmen le cãuta la un bărbat : blond, înalt și ochi albaștrii, ea a crezut că Dave și Shelley sunt căsătoriți,
                 deci ea a fost mai mult concentrată pe clătite pe care le mânca decât orice altceva.
                 Din fericire, însă, după o explicație de la Emma, ​​ șiretlicul a funcționat!
                 <br> <br> În timp ce Carmen este încă enervată de faptul că ea
-                a fost pãcãlita la brunch pe care ea însăși programat, ea și Dave sunt împreună de atunci și acum trăiesc fericiți împreună la Berlin cu cele doua animale de companie, Luna și Mario."
+                a fost pãcãlita la brunch pe care ea însăși l-a programat. Carmen și Dave sunt împreună de atunci și acum trăiesc fericiți împreună la Berlin cu cele doua animale de companie, Luna și Mario."
   image: "images/mario_luna.jpeg"
 
 ######################### Portfolio ###############################
