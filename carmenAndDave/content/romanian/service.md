@@ -50,11 +50,6 @@ service:
   description : "Mai multe detalii sunt disponibile pe urmatoarele pagini"
   service_item:
     # service item loop
-    - icon : ion-android-plane #ionicon pack v2 : https://ionicons.com/v2/
-      name: Airport
-      content: "The nearest airport is Cluj-Napoca (CLJ)"
-
-    # service item loop
     - icon : ion-ios-world-outline #ionicon pack v2 : https://ionicons.com/v2/
       name: Locatie
       content: "Conacul Secuiesc<br>Colțești, Romania"
@@ -73,11 +68,6 @@ service:
     - icon : ion-pizza #ionicon pack v2 : https://ionicons.com/v2/
       name: Masa
       content: "Servirea mesei va începe la ora 14.00 "
-
-    # service item loop
-    - icon : ion-android-home #ionicon pack v2 : https://ionicons.com/v2/
-      name: Lodging
-      content: "We have reserved 27 rooms at the venue, however, there are many inns in the village 5 minutes down the road, if needed"
 
     # service item loop
     - icon : ion-android-people #ionicon pack v2 : https://ionicons.com/v2/
