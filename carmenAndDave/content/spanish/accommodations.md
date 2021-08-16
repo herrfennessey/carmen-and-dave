@@ -27,6 +27,8 @@ info1:
   <br>
   **Check-Out: Domingo, 3 de Julio, 2022 11:00**
   <br>
+  **Coste: 100 euros por persona**
+  <br>
   **Incluye: Habitación  + Cena el Viernes, Desayuno el Sábado, Desayuno el Domingo**
   "
   
