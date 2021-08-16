@@ -25,7 +25,7 @@ info1:
   <br><br>
   **Check-In: Friday, July 1st, 2022 15:00**
   <br>
-  **Check-Out: Sunday, July 3rd, 2022 11:00** *(Late checkout is possible if necessary)*
+  **Check-Out: Sunday, July 3rd, 2022 11:00**
   <br>
   **Cost: €100 p/p**
   <br>
