@@ -32,10 +32,10 @@ pricing:
     services:
     - Arrive at - Noon 
     - Ceremony Starts - 12:30 PM
-    - Lunch + Dinner - Start at 2 PM
+    - Lunch + Dinner - Start at 1:30 PM
     - Cake - 8 PM
     - Bonfire - 9 PM
-    - Last Call - 10 PM
+    - Event End - 10 PM
     - Bedtime - Whenever
 
 

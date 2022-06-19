@@ -23,9 +23,11 @@ pricing:
     link : "#"
     services:
   
-    - Ora Ceremoniei - 12:30 PM
-    - Masa - Incepe la ora 14.00 
+    - Întâmpinarea invitațiilor - 12.00
+    - Ora Ceremoniei - 12.30 
+    - Masa - Incepe la ora 13.30 
     - Tort - 20.00 
-    - Foc de tabara - 21.00 
+    - Foc de tabără - 21.00 
+  
 
 ---

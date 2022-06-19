@@ -30,13 +30,13 @@ pricing:
     content : "Para todos los invitados!"
     link : "#"
     services:
-    - Llegada- Medio-dia  
-    - Ceremonia - 12:30 PM
-    - Almuerzo y cena - Empieza a las 2 PM
-    - Pastel de boda - 8 PM
-    - Hoguera - 9 PM
-    
-
+    - Llegada- 12.00
+    - Ceremonia - 12.30 PM
+    - Almuerzo y cena - Empieza a las 13.30
+    - Pastel de boda - 20.00
+    - Hoguera - 21.00
+    - Final del evento - 22.00
+  
 
   - name : "Domingo"
     content : "Para los invitados que se alojan en el Conac"
